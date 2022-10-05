@@ -1,0 +1,2136 @@
+.header{
+    height: 650px;
+    background-color: black;
+    position: absolute;
+    width: -webkit-fill-available;
+    height: 659px;
+    background-color: black;
+    left: 0px;
+    top: 0px;
+
+}
+
+.h1{
+    color: white;
+    position: absolute;
+    left: 122px;
+    top: -10px;
+    font-family: system-ui;
+    font-size: xx-large;
+}
+
+
+.img1{
+    width: 42px;
+    position: absolute;
+    left: 49px;
+    top: 8px;
+}
+
+
+.h2{
+
+    color: white;
+    position: absolute;
+    left: 216px;
+    top: -10px;
+    font-size: xx-large;
+    font-family: system-ui;
+
+}
+
+.h3{
+    color: white;
+    position: absolute;
+    left: 356px;
+    top: 3px;
+    font-weight: 100;
+    font-size: medium;
+    font-family: system-ui;
+}
+
+.h4{
+
+    color: white;
+    position: absolute;
+    left: 610px;
+    top: 3px;
+    font-weight: 100;
+    font-size: medium;
+    font-family: system-ui;
+
+}
+
+.h5{
+
+    color: white;
+    position: absolute;
+    left: 1319px;
+    top: 10px;
+    font-weight: 100;
+    font-size: medium;
+}
+
+.arrow{
+    position: absolute;
+    left: 1406px;
+    top: 33px;
+}
+
+.cr{
+    position: absolute;
+    left: 142px;
+    top: 74px;
+}
+
+.circle1{
+    position: absolute;
+    left: 707px;
+    top: 354px;
+}
+
+.circle2{
+
+    position: absolute;
+    left: 673px;
+    top: 315px;
+    width: 168px;
+    
+}
+
+.circle3{
+
+    width: 230px;
+    height: 230px;
+    border-radius: 12.2rem;
+    color: darkgray;
+    border: darkgray;
+    position: absolute;
+    border-style: groove;
+    left: 641px;
+    top: 269px;
+
+}
+
+.circle4{
+
+    width: 280px;
+    height: 280px;
+    border-radius: 12.2rem;
+    color: darkgray;
+    border: darkgray;
+    position: absolute;
+    border-style: groove;
+    left: 616px;
+    top: 261px;
+
+}
+
+.circle5{
+
+    width: 350px;
+    height: 350px;
+    border-radius: 12.2rem;
+    color: darkgray;
+    border: darkgray;
+    position: absolute;
+    border-style: groove;
+    left: 578px;
+    top: 225px;
+
+}
+
+
+
+.car{
+    position: absolute;
+    width: 1249px;
+    height: 411px;
+    top: 117px;
+    left: 148px;
+}
+
+.wifi{
+    position: absolute;
+    left: 743px;
+    top: 314px;
+    rotate: -30deg;
+}
+
+
+.ch1{
+
+    color: white;
+    position: absolute;
+    top: 50px;
+    left: 177px;
+    font-weight: 700;
+    font-size: -webkit-xxx-large;
+    font-family: system-ui;
+
+
+}
+
+
+.ch2{
+
+    color: white;
+    position: absolute;
+    top: 102px;
+    left: 177px;
+    font-weight: 700;
+    font-size: -webkit-xxx-large;
+    font-family: system-ui;
+
+}
+
+
+.ch3{
+
+    color: white;
+    position: absolute;
+    top: 201px;
+    left: 177px;
+    font-weight: 100;
+    font-family: system-ui;
+
+}
+
+.ch4{
+
+    color: deepskyblue;
+    position: absolute;
+    top: 560px;
+    left: 177px;
+    font-weight: 400;
+    font-family: system-ui;
+    font-size: x-large;
+
+}
+
+
+.ch5{
+
+    position: absolute;
+    left: 177px;
+    top: 602px;
+    color: white;
+    font-size: medium;
+    font-weight: 400;
+    font-family: system-ui;
+
+
+}
+
+.box{
+   
+    POSITION: absolute;
+    LEFT: 818PX;
+    TOP: 582px;
+    background: white;
+    padding-left: 48px;
+    width: 250px;
+    height: 43px;
+
+}
+
+.b1{
+    font-size: small;
+    font-family: system-ui;
+    font-weight: 500;
+}
+
+.arw2{
+    width: 24px;
+    position: absolute;
+    left: 221px;
+    top: 11px;
+
+}
+
+.details{
+    height: 297px;
+    width: -webkit-fill-available;
+    background: #f2f2f2;
+    position: absolute;
+    top: 658px;
+    left: 0px;
+
+}
+
+.dh1{
+    width: 213px;
+    font-family: system-ui;
+    position: absolute;
+    left: 167px;
+    top: 10px;
+    font-size: xxx-large;
+}
+
+.nh1{
+    border-radius: 20.2rem;
+    border: 1px solid #2874f0;
+    height: 15px;
+    width: 8px;
+    padding-left: 6px;
+    position: absolute;
+    left: 508px;
+    top: 35px;
+    background: #2874f0;
+}
+
+
+
+.tx1{
+    font-family: system-ui;
+    font-weight: 500;
+    width: 212px;
+    position: absolute;
+    left: 565px;
+    top: 21px;
+}
+
+
+.ficon{
+    width: 49px;
+    position: absolute;
+    left: 494px;
+    top: 84px;
+}
+
+
+
+
+.no{
+
+    color: white;
+    font-size: small;
+    font-family: system-ui;
+    position: absolute;
+    left: 512px;
+    top: 40px;
+    font-weight: 400;
+
+}
+
+
+.nh2{
+
+    border-radius: 20.2rem;
+    border: 1px solid #2874f0;
+    height: 15px;
+    width: 8px;
+    padding-left: 6px;
+    position: absolute;
+    left: 971px;
+    top: 32px;
+    background: #2874f0;
+
+}
+
+.no2{
+
+    color: white;
+    font-size: small;
+    font-family: system-ui;
+    position: absolute;
+    left: 976px;
+    top: 36px;
+    font-weight: 400;
+
+}
+
+.ticon{
+    width: 53px;
+    position: absolute;
+    left: 955px;
+    top: 80px;
+}
+
+
+.tx2{
+
+    font-family: system-ui;
+    font-weight: 500;
+    width: 212px;
+    position: absolute;
+    left: 1026px;
+    top: 31px;
+
+}
+
+
+
+.nh3{
+    border-radius: 20.2rem;
+    border: 1px solid #2874f0;
+    height: 15px;
+    width: 8px;
+    padding-left: 6px;
+    position: absolute;
+    left: 508px;
+    top: 167px;
+    background: #2874f0;
+
+}
+
+.no3{
+
+    color: white;
+    font-size: small;
+    font-family: system-ui;
+    position: absolute;
+    left: 512px;
+    top: 171px;
+    font-weight: 400;
+
+}
+
+
+.tx3{
+    font-family: system-ui;
+    font-weight: 500;
+    width: 212px;
+    position: absolute;
+    left: 565px;
+    top: 163px;
+}
+
+
+.letter{
+    position: absolute;
+    left: 484px;
+    top: 199px;
+}
+
+
+.nh4{
+
+    border-radius: 20.2rem;
+    border: 1px solid #2874f0;
+    height: 15px;
+    width: 8px;
+    padding-left: 6px;
+    position: absolute;
+    left: 971px;
+    top: 167px;
+    background: #2874f0;
+
+}
+
+
+.no4{
+
+    color: white;
+    font-size: small;
+    font-family: system-ui;
+    position: absolute;
+    left: 976px;
+    top: 171px;
+    font-weight: 400;
+
+}
+
+.check{
+    width: 48px;
+    position: absolute;
+    left: 957px;
+    top: 211px;
+}
+
+.tx4{
+
+    font-family: system-ui;
+    font-weight: 500;
+    width: 212px;
+    position: absolute;
+    left: 1030px;
+    top: 163px;
+
+}
+
+
+
+/* w material */
+
+.wmaterial{
+    height: 1000px;
+    width: -webkit-fill-available;
+    position: absolute;
+    top: 955px;
+}
+
+.wmh1{
+
+    width: 216px;
+    font-family: system-ui;
+    position: absolute;
+    left: 167px;
+    top: 981px;
+    font-size: xxx-large;
+
+
+}
+
+.subtext1{
+    font-family: system-ui;
+    width: 500px;
+    position: absolute;
+    top: 1214px;
+    left: 164px;
+    font-weight: 400;
+    color: gray;
+
+}
+
+
+.pic1{
+
+    width: 462px;
+    height: 301px;
+    position: absolute;
+    left: 858px;
+    top: 1072px;
+}
+
+.pic2{
+    
+    width: 785px;
+    height: 594px;
+    position: absolute;
+    top: 1500px;
+    left: 0px;
+
+}
+
+.wmh2{
+
+    width: 306px;
+    font-family: system-ui;
+    position: absolute;
+    left: 911px;
+    top: 1431px;
+    font-size: xxx-large;
+}
+
+.subtext2{
+
+    font-family: system-ui;
+    width: 490px;
+    position: absolute;
+    top: 1675px;
+    left: 911px;
+    font-weight: 400;
+    color: gray;
+
+}
+
+.hr1{
+    position: absolute;
+    top: 1801px;
+    left: 911px;
+    width: 497px;
+    color: grey;
+    background: silver;
+}
+
+.wmh3{
+    width: 490px;
+    font-family: system-ui;
+    position: absolute;
+    left: 911px;
+    top: 1797px;
+    font-size: xxx-large;
+}
+
+
+.subtext3{
+    font-family: system-ui;
+    width: 490px;
+    position: absolute;
+    top: 2041px;
+    left: 917px;
+    font-weight: 400;
+    color: gray;
+}
+
+
+.wmh4{
+
+    width: 312px;
+    font-family: system-ui;
+    position: absolute;
+    top: 2187px;
+    left: 124px;
+    font-size: xxx-large;
+
+}
+
+.subtext4{
+
+    font-family: system-ui;
+    width: 335px;
+    position: absolute;
+    top: 2502px;
+    left: 124px;
+    font-weight: 400;
+    color: gray;
+
+}
+
+.pic3{
+    position: absolute;
+    top: 2247px;
+    width: 918px;
+    height: 390px;
+    left: 509px;
+}
+
+
+
+.bluebar{
+   
+    height: 157px;
+    width: -webkit-fill-available;
+    position: absolute;
+    top: 2715px;
+    left: 0px;
+    background-color: deepskyblue;
+
+}
+
+
+.bh1{
+    width: 349px;
+    font-family: system-ui;
+    font-size: xxx-large;
+    position: absolute;
+    left: 109px;
+    top: -31px;
+}
+
+
+.box2{
+    POSITION: absolute;
+    left: 754px;
+    top: 58px;
+    background: black;
+    padding-left: 48px;
+    width: 250px;
+    height: 43px;
+}
+
+.b2{
+    font-size: small;
+    font-family: system-ui;
+    font-weight: 500;
+    color: white;
+}
+
+.blh1{
+    color: black;
+    position: absolute;
+    left: 115px;
+    top: 2877px;
+    font-weight: 500;
+    font-size: larger;
+    font-family: system-ui;
+}
+
+.blh2{
+
+    color: black;
+    position: absolute;
+    left: 500px;
+    top: 2877px;
+    font-weight: 500;
+    font-size: larger;
+    font-family: system-ui;
+
+
+}
+
+
+.blh3{
+    color: black;
+    position: absolute;
+    left: 1280px;
+    top: 2877px;
+    font-weight: 600;
+    font-size: medium;
+    font-family: system-ui;
+    width: 92px;
+}
+
+.arw3{
+
+    width: 26px;
+    position: absolute;
+    left: 92px;
+    top: 0px;
+
+}
+
+.belhead{
+
+    position: absolute;
+    top: 2947px;
+    left: 114px;
+    width: 1281px;
+    color: grey;
+    background: #999999;
+
+}
+
+.blh4{
+
+    font-weight: lighter;
+    color: black;
+    position: absolute;
+    left: 112px;
+    top: 2974px;
+    font-size: x-large;
+    font-family: fantasy;
+
+}
+
+.blsubtext{
+
+    font-family: system-ui;
+    width: 1327px;
+    position: absolute;
+    top: 3033px;
+    left: 110px;
+    font-weight: 400;
+    color: #666666;
+    height: 150px;
+
+
+}
+
+
+/* desktop  view */
+
+@media (max-width:1920px) {
+
+    .header{
+        background-color: black;
+        position: absolute;
+        width: 1610px;
+        height: 659px;
+        left: 0px;
+        top: 0px;
+    }
+
+
+    .h1{
+        color: white;
+        position: absolute;
+        left: 122px;
+        top: -10px;
+        font-family: system-ui;
+        font-size: xx-large;
+    }
+    
+    
+    .img1{
+        width: 42px;
+        position: absolute;
+        left: 49px;
+        top: 8px;
+    }
+    
+    
+    .h2{
+    
+        color: white;
+        position: absolute;
+        left: 216px;
+        top: -10px;
+        font-size: xx-large;
+        font-family: system-ui;
+    
+    }
+    
+    .h3{
+        color: white;
+        position: absolute;
+        left: 356px;
+        top: 3px;
+        font-weight: 100;
+        font-size: medium;
+        font-family: system-ui;
+    }
+    
+    .h4{
+    
+        color: white;
+        position: absolute;
+        left: 610px;
+        top: 3px;
+        font-weight: 100;
+        font-size: medium;
+        font-family: system-ui;
+    
+    }
+    
+    .h5{
+    
+        color: white;
+        position: absolute;
+        left: 1319px;
+        top: 10px;
+        font-weight: 100;
+        font-size: medium;
+    }
+    
+    .arrow{
+        position: absolute;
+        left: 1406px;
+        top: 33px;
+    }
+
+
+    .cr{
+        position: absolute;
+        left: 142px;
+        top: 74px;
+    }
+    
+
+ 
+.circle1{
+    position: absolute;
+    left: 707px;
+    top: 354px;
+}
+
+.circle2{
+
+    position: absolute;
+    left: 893px;
+    top: 315px;
+    width: 168px;
+    
+}
+
+.circle3{
+
+    width: 230px;
+    height: 230px;
+    border-radius: 12.2rem;
+    color: darkgray;
+    border: darkgray;
+    position: absolute;
+    border-style: groove;
+    left: 859px;
+    top: 269px;
+
+}
+
+.circle4{
+
+    width: 280px;
+    height: 280px;
+    border-radius: 12.2rem;
+    color: darkgray;
+    border: darkgray;
+    position: absolute;
+    border-style: groove;
+    left: 834px;
+    top: 254px;
+
+}
+
+.circle5{
+
+    width: 350px;
+    height: 350px;
+    border-radius: 12.2rem;
+    color: darkgray;
+    border: darkgray;
+    position: absolute;
+    border-style: groove;
+    left: 804px;
+    top: 213px;
+
+}
+
+    
+    
+    .car{  
+        position: absolute;
+        width: 1380px;
+        height: 425px;
+        top: 117px;
+        left: 90px;
+    }
+
+    .wifi{
+        position: absolute;
+        left: 752px;
+        top: 314px;
+        rotate: -30deg;
+    }
+    
+    
+    .ch1{
+    
+        color: white;
+        position: absolute;
+        top: 50px;
+        left: 100px;
+        font-weight: 700;
+        font-size: -webkit-xxx-large;
+        font-family: system-ui;
+    
+    
+    }
+    
+    
+    .ch2{
+    
+        color: white;
+        position: absolute;
+        top: 102px;
+        left: 100px;
+        font-weight: 700;
+        font-size: -webkit-xxx-large;
+        font-family: system-ui;
+    
+    }
+    
+    
+    .ch3{
+    
+        color: white;
+        position: absolute;
+        top: 201px;
+        left: 100px;
+        font-weight: 100;
+        font-family: system-ui;
+    
+    }
+    
+    .ch4{
+    
+        color: deepskyblue;
+        position: absolute;
+        top: 560px;
+        left: 100px;
+        font-weight: 400;
+        font-family: system-ui;
+        font-size: x-large;
+    
+    }
+    
+    
+    .ch5{
+    
+        position: absolute;
+        left: 100px;
+        top: 602px;
+        color: white;
+        font-size: medium;
+        font-weight: 400;
+        font-family: system-ui;
+    
+    
+    }
+    
+    .box{
+   
+        POSITION: absolute;
+        LEFT: 1015PX;
+        TOP: 596px;
+        background: white;
+        padding-left: 36px;
+        width: 233px;
+        height: 41px;
+    
+    }
+    
+    .b1{
+        font-size: small;
+        font-family: system-ui;
+        font-weight: 500;
+    }
+    
+    .arw2{
+        width: 24px;
+        position: absolute;
+        left: 221px;
+        top: 11px;
+    
+    }
+    
+    /* details */
+
+
+    .details{
+        
+        height: 297px;
+        width: 1610px;
+        background: #f2f2f2;
+        position: absolute;
+        top: 658px;
+        left: 0px;
+        
+    }
+    
+    .dh1{
+        width: 213px;
+        font-family: system-ui;
+        position: absolute;
+        left: 93px;
+        top: 41px;
+        font-size: xx-large;
+    }
+    
+    .nh1{
+        border-radius: 20.2rem;
+        border: 1px solid #2874f0;
+        height: 15px;
+        width: 8px;
+        padding-left: 6px;
+        position: absolute;
+        left: 368px;
+        top: 35px;
+        background: #2874f0;
+    }
+    
+    
+    
+    .tx1{
+        font-family: system-ui;
+        font-weight: 500;
+        width: 212px;
+        position: absolute;
+        left: 424px;
+        top: 21px;
+    }
+    
+    
+    .ficon{
+        width: 49px;
+        position: absolute;
+        left: 355px;
+        top: 84px;
+    }
+    
+    
+    .no{
+    
+        color: white;
+        font-size: small;
+        font-family: system-ui;
+        position: absolute;
+        left: 372px;
+        top: 40px;
+        font-weight: 400;
+    
+    }
+
+
+    .nh2{
+
+        border-radius: 20.2rem;
+        border: 1px solid #2874f0;
+        height: 15px;
+        width: 8px;
+        padding-left: 6px;
+        position: absolute;
+        left: 1035px;
+        top: 33px;
+        background: #2874f0;
+    
+    }
+    
+    .no2{
+    
+        color: white;
+        font-size: small;
+        font-family: system-ui;
+        position: absolute;
+        left: 1039px;
+        top: 37px;
+        font-weight: 400;
+    
+    }
+    
+    .ticon{
+        width: 51px;
+        position: absolute;
+        left: 1020px;
+        top: 80px;
+    }
+    
+    
+    .tx2{
+    
+        font-family: system-ui;
+        font-weight: 500;
+        width: 212px;
+        position: absolute;
+        left: 1100px;
+        top: 25px;
+    
+    }
+    
+    
+    
+    .nh3{
+        border-radius: 20.2rem;
+        border: 1px solid #2874f0;
+        height: 15px;
+        width: 8px;
+        padding-left: 6px;
+        position: absolute;
+        left: 368px;
+        top: 167px;
+        background: #2874f0;
+    
+    }
+    
+    .no3{
+    
+        color: white;
+        font-size: small;
+        font-family: system-ui;
+        position: absolute;
+        left: 372px;
+        top: 171px;
+        font-weight: 400;
+    
+    }
+    
+    
+    .tx3{
+        font-family: system-ui;
+        font-weight: 500;
+        width: 212px;
+        position: absolute;
+        left: 424px;
+        top: 163px;
+    }
+    
+    
+    .letter{
+        position: absolute;
+        left: 345px;
+        top: 199px;
+    }
+    
+    
+    .nh4{
+    
+        border-radius: 20.2rem;
+        border: 1px solid #2874f0;
+        height: 15px;
+        width: 8px;
+        padding-left: 6px;
+        position: absolute;
+        left: 1035px;
+        top: 167px;
+        background: #2874f0;
+    
+    }
+    
+    
+    .no4{
+    
+        color: white;
+        font-size: small;
+        font-family: system-ui;
+        position: absolute;
+        left: 1039px;
+        top: 171px;
+        font-weight: 400;
+    
+    }
+    
+    .check{
+        width: 39px;
+        position: absolute;
+        left: 1025px;
+        top: 211px;
+    }
+    
+    .tx4{
+    
+        font-family: system-ui;
+        font-weight: 500;
+        width: 212px;
+        position: absolute;
+        left: 1100px;
+        top: 163px;
+    
+    }
+
+
+    /* writing material */
+
+    .wmh1 {
+        width: 216px;
+        font-family: system-ui;
+        position: absolute;
+        left: 100px;
+        top: 981px;
+        font-size: xxx-large;
+    }
+
+    .subtext1 {
+        font-family: system-ui;
+        width: 500px;
+        position: absolute;
+        top: 1214px;
+        left: 100px;
+        font-weight: 400;
+        color: gray;
+    }
+
+    .pic1 {
+        width: 462px;
+        height: 301px;
+        position: absolute;
+        left: 942px;
+        top: 1072px;
+    }
+
+    .pic2{
+    
+        width: 600px;
+        height: 589px;
+        position: absolute;
+        top: 1500px;
+        left: 0px;
+    
+    }
+
+    .wmh2{
+
+        width: 306px;
+        font-family: system-ui;
+        position: absolute;
+        left: 821px;
+        top: 1431px;
+        font-size: xxx-large;
+    }
+    
+    .subtext2{
+    
+        font-family: system-ui;
+        width: 490px;
+        position: absolute;
+        top: 1675px;
+        left: 821px;
+        font-weight: 400;
+        color: gray;
+    
+    }
+    
+    .hr1{
+        position: absolute;
+        top: 1801px;
+        left: 821px;
+        width: 492px;
+        color: grey;
+        background: silver;
+    }
+    
+    .wmh3{
+        width: 490px;
+        font-family: system-ui;
+        position: absolute;
+        left: 821px;
+        top: 1797px;
+        font-size: xxx-large;
+    }
+    
+    
+    .subtext3{
+        font-family: system-ui;
+        width: 490px;
+        position: absolute;
+        top: 2041px;
+        left: 821px;
+        font-weight: 400;
+        color: gray;
+    }
+    
+    
+    .wmh4{
+    
+        width: 312px;
+        font-family: system-ui;
+        position: absolute;
+        top: 2187px;
+        left: 56px;
+        font-size: xxx-large;
+    
+    }
+    
+    .subtext4{
+    
+        font-family: system-ui;
+        width: 335px;
+        position: absolute;
+        top: 2502px;
+        left: 56px;
+        font-weight: 400;
+        color: gray;
+    
+    }
+    
+    .pic3{
+        position: absolute;
+        top: 2247px;
+        width: 710px;
+        height: 390px;
+        left: 610px;
+    }
+
+    .bluebar {
+        height: 157px;
+        width: 1610px;
+        position: absolute;
+        top: 2715px;
+        left: 0px;
+        background-color: deepskyblue;
+    }
+    
+    .bh1 {
+        width: 349px;
+        font-family: system-ui;
+        font-size: xxx-large;
+        position: absolute;
+        left: 91px;
+        top: -31px;
+    }
+
+.blh1{
+    color: black;
+    position: absolute;
+    left: 100px;
+    top: 2877px;
+    font-weight: 500;
+    font-size: larger;
+    font-family: system-ui;
+}
+
+.blh2{
+
+    color: black;
+    position: absolute;
+    left: 523px;
+    top: 2877px;
+    font-weight: 500;
+    font-size: larger;
+    font-family: system-ui;
+
+
+}
+
+
+.blh3{
+    color: black;
+    position: absolute;
+    left: 1348px;
+    top: 2877px;
+    font-weight: 600;
+    font-size: medium;
+    font-family: system-ui;
+    width: 92px;
+}
+
+.arw3{
+
+    width: 26px;
+    position: absolute;
+    left: 92px;
+    top: 0px;
+
+}
+
+.belhead{
+
+    position: absolute;
+    top: 2947px;
+    left: 100px;
+    width: 1351px;
+    color: grey;
+    background: #999999;
+
+}
+
+.blh4{
+
+    font-weight: lighter;
+    color: black;
+    position: absolute;
+    left: 100px;
+    top: 2974px;
+    font-size: x-large;
+    font-family: fantasy;
+
+}
+
+.blsubtext{
+
+    font-family: system-ui;
+    width: 1301px;
+    position: absolute;
+    top: 3033px;
+    left: 100px;
+    font-weight: 400;
+    color: #666666;
+    height: 150px;
+
+
+}
+
+    
+    
+}
+
+
+
+/* another media query */
+
+@media (max-width:1705px) {
+
+    .h1{
+        color: white;
+    position: absolute;
+    left: 76px;
+    top: 4px;
+    font-family: system-ui;
+    font-size: x-large;
+    }
+    
+    
+    .img1{
+        width: 39px;
+        position: absolute;
+        left: 41px;
+        top: 2px;
+    }
+    
+    
+    .h2{
+    
+        color: white;
+        position: absolute;
+        left: 166px;
+        top: 3px;
+        font-size: x-large;
+        font-family: system-ui;
+    
+    }
+    
+    .h3{
+        color: white;
+        position: absolute;
+        left: 300px;
+        top: 3px;
+        font-weight: 100;
+        font-size: medium;
+        font-family: system-ui;
+    }
+    
+    .h4{
+    
+        color: white;
+        position: absolute;
+        left: 583px;
+        top: 3px;
+        font-weight: 100;
+        font-size: medium;
+        font-family: system-ui;
+    
+    }
+    
+    .h5{
+    
+        color: white;
+        position: absolute;
+        left: 1165px;
+        top: 10px;
+        font-weight: 100;
+        font-size: medium;
+    }
+    
+    .arrow{
+        position: absolute;
+        left: 1250px;
+        top: 34px;
+    }
+
+    .cr{
+        position: absolute;
+        left: 142px;
+        top: 74px;
+    }
+    
+
+ 
+.circle1{
+    position: absolute;
+    left: 707px;
+    top: 354px;
+}
+
+.circle2{
+
+    position: absolute;
+    left: 776px;
+    top: 315px;
+    width: 168px;
+    
+}
+
+.circle3{
+
+    width: 230px;
+    height: 230px;
+    border-radius: 12.2rem;
+    color: darkgray;
+    border: darkgray;
+    position: absolute;
+    border-style: groove;
+    left: 748px;
+    top: 269px;
+
+}
+
+.circle4{
+
+    width: 280px;
+    height: 280px;
+    border-radius: 12.2rem;
+    color: darkgray;
+    border: darkgray;
+    position: absolute;
+    border-style: groove;
+    left: 727px;
+    top: 254px;
+
+}
+
+.circle5{
+
+    width: 350px;
+    height: 350px;
+    border-radius: 12.2rem;
+    color: darkgray;
+    border: darkgray;
+    position: absolute;
+    border-style: groove;
+    left: 687px;
+    top: 213px;
+
+}
+
+    
+    
+    .car{  
+        position: absolute;
+        width: 1239px;
+        height: 425px;
+        top: 117px;
+        left: 73px;
+    }
+
+    .wifi{
+        position: absolute;
+        left: 661px;
+        top: 314px;
+        rotate: -30deg;
+    }
+    
+    
+    .ch1{
+    
+        color: white;
+        position: absolute;
+        top: 50px;
+        left: 100px;
+        font-weight: 700;
+        font-size: -webkit-xxx-large;
+        font-family: system-ui;
+    
+    
+    }
+    
+    
+    .ch2{
+    
+        color: white;
+        position: absolute;
+        top: 102px;
+        left: 100px;
+        font-weight: 700;
+        font-size: -webkit-xxx-large;
+        font-family: system-ui;
+    
+    }
+    
+    
+    .ch3{
+    
+        color: white;
+        position: absolute;
+        top: 201px;
+        left: 100px;
+        font-weight: 100;
+        font-family: system-ui;
+    
+    }
+    
+    .ch4{
+    
+        color: deepskyblue;
+        position: absolute;
+        top: 560px;
+        left: 100px;
+        font-weight: 400;
+        font-family: system-ui;
+        font-size: x-large;
+    
+    }
+    
+    
+    .ch5{
+    
+        position: absolute;
+        left: 100px;
+        top: 602px;
+        color: white;
+        font-size: medium;
+        font-weight: 400;
+        font-family: system-ui;
+    
+    
+    }
+    
+    .box{
+   
+        POSITION: absolute;
+        LEFT: 882PX;
+        TOP: 596px;
+        background: white;
+        padding-left: 36px;
+        width: 233px;
+        height: 41px;
+    
+    }
+    
+    .b1{
+        font-size: small;
+        font-family: system-ui;
+        font-weight: 500;
+    }
+    
+    .arw2{
+        width: 24px;
+        position: absolute;
+        left: 221px;
+        top: 11px;
+    
+    }
+    
+    /* details */
+
+
+    .details{
+        
+        height: 297px;
+        width: 1610px;
+        background: #f2f2f2;
+        position: absolute;
+        top: 658px;
+        left: 0px;
+        
+    }
+    
+    .dh1{
+        width: 213px;
+        font-family: system-ui;
+        position: absolute;
+        left: 93px;
+        top: 41px;
+        font-size: xx-large;
+    }
+    
+    .nh1{
+        border-radius: 20.2rem;
+        border: 1px solid #2874f0;
+        height: 15px;
+        width: 8px;
+        padding-left: 6px;
+        position: absolute;
+        left: 368px;
+        top: 35px;
+        background: #2874f0;
+    }
+    
+    
+    
+    .tx1{
+        font-family: system-ui;
+        font-weight: 500;
+        width: 212px;
+        position: absolute;
+        left: 424px;
+        top: 21px;
+    }
+    
+    
+    .ficon{
+        width: 49px;
+        position: absolute;
+        left: 355px;
+        top: 84px;
+    }
+    
+    
+    .no{
+    
+        color: white;
+        font-size: small;
+        font-family: system-ui;
+        position: absolute;
+        left: 372px;
+        top: 40px;
+        font-weight: 400;
+    
+    }
+
+
+    .nh2{
+
+        border-radius: 20.2rem;
+        border: 1px solid #2874f0;
+        height: 15px;
+        width: 8px;
+        padding-left: 6px;
+        position: absolute;
+        left: 888px;
+        top: 33px;
+        background: #2874f0;
+    
+    }
+    
+    .no2{
+    
+        color: white;
+        font-size: small;
+        font-family: system-ui;
+        position: absolute;
+        left: 892px;
+        top: 37px;
+        font-weight: 400;
+    
+    }
+    
+    .ticon{
+        width: 51px;
+        position: absolute;
+        left: 875px;
+        top: 80px;
+    }
+    
+    
+    .tx2{
+    
+        font-family: system-ui;
+        font-weight: 500;
+        width: 212px;
+        position: absolute;
+        left: 950px;
+        top: 25px;
+    
+    }
+    
+    
+    
+    .nh3{
+        border-radius: 20.2rem;
+        border: 1px solid #2874f0;
+        height: 15px;
+        width: 8px;
+        padding-left: 6px;
+        position: absolute;
+        left: 368px;
+        top: 167px;
+        background: #2874f0;
+    
+    }
+    
+    .no3{
+    
+        color: white;
+        font-size: small;
+        font-family: system-ui;
+        position: absolute;
+        left: 372px;
+        top: 171px;
+        font-weight: 400;
+    
+    }
+    
+    
+    .tx3{
+        font-family: system-ui;
+        font-weight: 500;
+        width: 212px;
+        position: absolute;
+        left: 424px;
+        top: 163px;
+    }
+    
+    
+    .letter{
+        position: absolute;
+        left: 345px;
+        top: 199px;
+    }
+    
+    
+    .nh4{
+    
+        border-radius: 20.2rem;
+        border: 1px solid #2874f0;
+        height: 15px;
+        width: 8px;
+        padding-left: 6px;
+        position: absolute;
+        left: 888px;
+        top: 167px;
+        background: #2874f0;
+    
+    }
+    
+    
+    .no4{
+    
+        color: white;
+        font-size: small;
+        font-family: system-ui;
+        position: absolute;
+        left: 892px;
+        top: 171px;
+        font-weight: 400;
+    
+    }
+    
+    .check{
+        width: 39px;
+        position: absolute;
+        left: 878px;
+        top: 211px;
+    }
+    
+    .tx4{
+    
+        font-family: system-ui;
+        font-weight: 500;
+        width: 212px;
+        position: absolute;
+        left: 950px;
+        top: 163px;
+    
+    }
+
+
+    /* writing material */
+
+    .wmh1 {
+        width: 216px;
+        font-family: system-ui;
+        position: absolute;
+        left: 100px;
+        top: 981px;
+        font-size: xxx-large;
+    }
+
+    .subtext1 {
+        font-family: system-ui;
+        width: 500px;
+        position: absolute;
+        top: 1214px;
+        left: 100px;
+        font-weight: 400;
+        color: gray;
+    }
+
+    .pic1 {
+        width: 462px;
+        height: 301px;
+        position: absolute;
+        left: 739px;
+        top: 1072px;
+    }
+
+    .pic2{
+    
+        width: 600px;
+        height: 589px;
+        position: absolute;
+        top: 1500px;
+        left: 0px;
+    
+    }
+
+    .wmh2{
+
+        width: 306px;
+        font-family: system-ui;
+        position: absolute;
+        left: 739px;
+        top: 1431px;
+        font-size: xxx-large;
+    }
+    
+    .subtext2{
+    
+        font-family: system-ui;
+        width: 490px;
+        position: absolute;
+        top: 1675px;
+        left: 739px;
+        font-weight: 400;
+        color: gray;
+    
+    }
+    
+    .hr1{
+        position: absolute;
+        top: 1801px;
+        left: 739px;
+        width: 492px;
+        color: grey;
+        background: silver;
+    }
+    
+    .wmh3{
+        width: 490px;
+        font-family: system-ui;
+        position: absolute;
+        left: 739px;
+        top: 1797px;
+        font-size: xxx-large;
+    }
+    
+    
+    .subtext3{
+        font-family: system-ui;
+        width: 490px;
+        position: absolute;
+        top: 2041px;
+        left: 739px;
+        font-weight: 400;
+        color: gray;
+    }
+    
+    
+    .wmh4{
+    
+        width: 312px;
+        font-family: system-ui;
+        position: absolute;
+        top: 2187px;
+        left: 56px;
+        font-size: xxx-large;
+    
+    }
+    
+    .subtext4{
+    
+        font-family: system-ui;
+        width: 335px;
+        position: absolute;
+        top: 2502px;
+        left: 56px;
+        font-weight: 400;
+        color: gray;
+    
+    }
+    
+    .pic3{
+        position: absolute;
+        top: 2247px;
+        width: 668px;
+        height: 390px;
+        left: 568px;
+    }
+
+    .bluebar {
+        height: 157px;
+        width: 1610px;
+        position: absolute;
+        top: 2715px;
+        left: 0px;
+        background-color: deepskyblue;
+    }
+    
+    .bh1 {
+        width: 349px;
+        font-family: system-ui;
+        font-size: xxx-large;
+        position: absolute;
+        left: 91px;
+        top: -31px;
+    }
+
+.blh1{
+    color: black;
+    position: absolute;
+    left: 100px;
+    top: 2877px;
+    font-weight: 500;
+    font-size: larger;
+    font-family: system-ui;
+}
+
+.blh2{
+
+    color: black;
+    position: absolute;
+    left: 523px;
+    top: 2877px;
+    font-weight: 500;
+    font-size: larger;
+    font-family: system-ui;
+
+
+}
+
+
+.blh3{
+    color: black;
+    position: absolute;
+    left: 1128px;
+    top: 2877px;
+    font-weight: 600;
+    font-size: medium;
+    font-family: system-ui;
+    width: 92px;
+}
+
+.arw3{
+
+    width: 26px;
+    position: absolute;
+    left: 92px;
+    top: 0px;
+
+}
+
+.belhead{
+
+    position: absolute;
+    top: 2947px;
+    left: 100px;
+    width: 1148px;
+    color: grey;
+    background: #999999;
+
+}
+
+.blh4{
+
+    font-weight: lighter;
+    color: black;
+    position: absolute;
+    left: 100px;
+    top: 2974px;
+    font-size: x-large;
+    font-family: fantasy;
+
+}
+
+.blsubtext{
+
+    font-family: system-ui;
+    width: 1184px;
+    position: absolute;
+    top: 3033px;
+    left: 100px;
+    font-weight: 400;
+    color: #666666;
+    height: 150px;
+
+
+}
+    
+   
+
+    
+}
+
+
+
+
+
+
+
+/*  media query -  */
+
+@media (max-width:524px) {
+
+    .ch1 {
+        color: white;
+        position: absolute;
+        top: 77px;
+        left: 103px;
+        font-weight: 700;
+        font-size: xx-large;
+        font-family: system-ui;
+    }
+
+    .ch2 {
+            color: white;
+            position: absolute;
+            top: 113px;
+            left: 100px;
+            font-weight: 700;
+            font-size: xx-large;
+            font-family: system-ui;
+            width: 304px;
+        
+    }
+
+    .ch4 {
+        color: deepskyblue;
+        position: absolute;
+        top: 560px;
+        left: 100px;
+        font-weight: 400;
+        font-family: system-ui;
+        font-size: large;
+        width: 309px;
+    }
+
+    .ch5 {
+        position: absolute;
+        left: 100px;
+        top: 602px;
+        color: white;
+        font-size: smaller;
+        font-weight: 400;
+        font-family: system-ui;
+        width: 299px;
+    }
+
+    .blh2 {
+        color: black;
+        position: absolute;
+        left: 523px;
+        top: 2874px;
+        font-weight: 500;
+        font-size: larger;
+        font-family: system-ui;
+        width: 153px;
+    }
+}
